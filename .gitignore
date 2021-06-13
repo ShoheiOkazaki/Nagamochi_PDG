@@ -1,0 +1,9 @@
+*.py[cod]
+*.oso
+
+*/otls/backup
+*/samplefiles/backup
+*/gallery/backup
+*/*/*/otls/backup
+*/*/*/samplefiles/backup
+*/*/*/gallery/backup

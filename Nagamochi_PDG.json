@@ -1,0 +1,13 @@
+{
+    "env" : 
+    [
+
+        {   "HOUDINI_PATH" :
+        	{
+        		"value":
+        			["C:/Users/owner/Documents/houdini/Nagamochi_PDG/houdini18.5",],
+        	}
+        },
+        
+    ]
+}
