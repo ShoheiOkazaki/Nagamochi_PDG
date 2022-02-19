@@ -1,11 +1,13 @@
 {
+    "recommends": "houdini_version >= '18.5.532'",
+
     "env" : 
     [
 
         {   "HOUDINI_PATH" :
         	{
         		"value":
-        			["[YOUR_FOLDER]/Nagamochi_PDG/houdini18.5",],
+        			["[YOUR_FOLDER]/Nagamochi_PDG/common",],
         	}
         },
         
