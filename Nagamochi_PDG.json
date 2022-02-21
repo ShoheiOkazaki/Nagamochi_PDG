@@ -1,5 +1,5 @@
 {
-    "recommends": "houdini_version >= '18.5.532'",
+    "requires": "houdini_version >= '18.5'",
 
     "env" : 
     [
