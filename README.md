@@ -13,4 +13,8 @@ There are some nodes for Maya, but those nodes are not perfect because I am not 
 - nmMayaRenderSettingsArnold
 - nmCalcDirectorySize
 
+# References
+Highly recommend watching an excellent presentation from Pavel.
+https://www.youtube.com/watch?v=t0bhiCoDR8M
+
 
