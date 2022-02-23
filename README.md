@@ -6,12 +6,14 @@ There are some nodes for Maya, but those nodes are not perfect because I am not 
 18.5 or higher
 
 # Nodes
-- nmMayaFileOpen
-- nmMayaFileImport
-- nmMayaAssExport
-- nmMayaFileSave
-- nmMayaRenderSettingsArnold
-- nmCalcDirectorySize
+- Maya
+  - nmMayaFileOpen
+  - nmMayaFileImport
+  - nmMayaAssExport
+  - nmMayaFileSave
+  - nmMayaRenderSettingsArnold
+- Utils
+  - nmCalcDirectorySize
 
 # References
 Highly recommend watching an excellent presentation from Pavel.
